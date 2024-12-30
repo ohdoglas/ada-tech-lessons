@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Pair of stock Black",
+    "amountInStock": 400,
+    "value": 45
+  },
+  {
+    "name": "Pair of stock White",
+    "amountInStock": 400,
+    "value": 45
+  }
+]
